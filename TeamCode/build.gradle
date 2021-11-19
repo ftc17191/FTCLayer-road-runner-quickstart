@@ -18,7 +18,10 @@ apply from: '../build.dependencies.gradle'
 dependencies {
     implementation project(':FtcRobotController')
     annotationProcessor files('lib/OpModeAnnotationProcessor.jar')
-    
+
+
     // FTC Layer dependency
-    implementation 'com.github.ftc17191:ftclayer:1.0.0'
+
+    //noinspection GradleDynamicVersion
+    implementation 'com.github.ftc17191:ftclayer:+'
 }
