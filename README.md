@@ -1,6 +1,6 @@
-# Road Runner Quickstart
+# Road Runner - FTC Layer Quickstart
 
-An example FTC project using [Road Runner](https://github.com/acmerobotics/road-runner). **Note:** Road Runner is in alpha and many of its APIs are incubating.
+An example FTC project using [Road Runner](https://github.com/acmerobotics/road-runner), and [FTC Layer](https://github.com/ftc17191/FTCLayer) **Note:** Road Runner is in alpha and many of its APIs are incubating. FTC Layer is an experimental Library.
 
 ## Installation
 
